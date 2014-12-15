@@ -8,7 +8,6 @@
   "description": "Javascript/CSS Guitar Chord and Tab Notation for the Web",
   "main": [
     "./css/jtab-helper.css",
-    "./css/jtab-site.css",
     "./javascripts/jquery.js",
     "./javascripts/raphael.js",
     "./javascripts/jtab.js"
