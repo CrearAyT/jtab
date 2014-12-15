@@ -8,10 +8,12 @@
   "description": "Javascript/CSS Guitar Chord and Tab Notation for the Web",
   "main": [
     "./css/jtab-helper.css",
-    "./javascripts/jquery.js",
-    "./javascripts/raphael.js",
     "./javascripts/jtab.js"
   ],
+  "dependencies": {
+    "raphael": "~2.1",
+    "jquery": "*"
+  },
   "moduleType": [
     "globals"
   ],
